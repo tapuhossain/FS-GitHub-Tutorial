@@ -28,3 +28,8 @@ Normal text
   |------|------|
   | Tapu | 25 |
   | Wife | 22 |
+
+  ## 2nd class Git and GitHub
+  - How to create issues
+  - Branch and merging
+  - 
