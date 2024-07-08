@@ -26,3 +26,4 @@ Normal text
   | Name | Age |
   |------|------|
   | Tapu | 25 |
+  | Wife | 22 |
